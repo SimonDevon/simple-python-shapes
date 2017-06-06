@@ -5,7 +5,7 @@ import turtle
 bob = turtle.Turtle()
 bob.shape("turtle")
 
-# Step 3: lets make Bob draw a red star
+# Step 3: lets make Bob draw a blue star
 bob.color("blue")
 
 # Lets draw a star!
