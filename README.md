@@ -5,3 +5,5 @@ Scripts completed so far:
 
 * Triangle
 * Star
+* Square
+* Name Spiral
