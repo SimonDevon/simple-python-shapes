@@ -1,9 +1,13 @@
 # simple-python-shapes
-Some simple python scripts that generate shapes for use at Code Club. As we create new shapes we will add them to this page.
+Some simple python scripts  at Code Club. As we create new scripts we will add them to this page.
 
-Scripts completed so far:
+Shape scripts completed so far:
 
 * Triangle
 * Star
 * Square
 * Name Spiral
+
+Other Scripts:
+
+* Chatbot
